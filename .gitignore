@@ -1,0 +1,13 @@
+# Files
+firstTrial (Jay).ipynb
+*.csv
+*.json
+
+#Mlflow
+mlruns/*
+Artifacts/*
+mlflow.db
+
+#Others
+.ipynb_checkpoints/
+
